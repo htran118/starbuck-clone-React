@@ -5,9 +5,8 @@ This is an interview assignment which requires to imitates the Signup/Login proc
 
 Run on Windows:
 
-npm install
+  npm install
 
-npx react-native run-android
-
+  npx react-native run-android
 
 Build APK using standard procedure.
