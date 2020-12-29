@@ -9,4 +9,5 @@ npm install
 
 npx react-native run-android
 
+
 Build APK using standard procedure.
